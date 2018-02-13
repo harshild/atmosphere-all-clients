@@ -1,2 +1,3 @@
 include 'atmosphere-springboot-server'
+include 'spring-boot-js-client'
 
