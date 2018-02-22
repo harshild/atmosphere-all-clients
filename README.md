@@ -1,2 +1,10 @@
 # atmosphere-all-clients
-[WIP] A spring boot server with multiple clients using Atmosphere
+
+This repository contains implementation of push-based communication using Atmosphere framework, on multiple platforms.
+
+Currently it has,
+
+* Springboot based web server
+* Springboot based JS client
+* Android client using wasync
+
